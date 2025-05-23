@@ -2,7 +2,7 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS PVT.LTD
 
-*NAME*: AmolHanmantrao Shrirame
+*NAME*: Amol Hanmantrao Shrirame
 
 *INTERN ID*: CT06DM767
 
